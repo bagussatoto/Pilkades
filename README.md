@@ -22,3 +22,11 @@ Fitur :
 - Pie/Bar Chart
 - Time Schedule (tahapan pengolahan data terjadwal)
   
+  
+  User  : admin
+  Pass  : admin 
+
+Cara Download 
+1. App_Pilkades Paste ke htdocs 
+2. buat database pengaduan_masyarakat 
+3. ketik localhost/App_pilkades
