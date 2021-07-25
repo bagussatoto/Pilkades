@@ -22,7 +22,3 @@ Fitur :
 - Pie/Bar Chart
 - Time Schedule (tahapan pengolahan data terjadwal)
   
-
-Buy Me A Coffee :)
-IG: @kang.bege
-WA: +6282240998474
